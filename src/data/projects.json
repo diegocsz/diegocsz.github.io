@@ -1,9 +1,9 @@
 [
   {
     "title": "Un videojuego Platform Fighters",
-    "description": "Biblioteca de logos SVG de las marcas más populares. +10k visitas al mes. +2K svgs descargados. Creado desde cero con Next.js, React y Tailwind CSS.",
+    "description": "Con un amigo desarrollando un videojuego con ThreeJS y React que tiene mecánicas y jugabilidad de un Platform Fighters.",
     "link": "https://github.com/SexoDeVerano",
-    "image": "/projects/svgl.webp",
+    "image": "/projects/platformfighters.webp",
     "tags": ["NEXT", "TAILWIND"]
   },
   {
